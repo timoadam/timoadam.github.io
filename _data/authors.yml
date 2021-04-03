@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Timo Adam"
-  uri         : "http://name.com"
+  uri         : "http://timoadam.github.io"
   email       : "ta59@st-andrews.ac.uk"
   bio         : "This is the first name."
   avatar      : "Timo.jpg"
@@ -10,9 +10,9 @@ Name Name:
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
+  name        : "Timo Adam"
+  email       : "ta59@st-andrews.ac.uk"
   bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  avatar      : "Timo.jpg"
   twitter     : "name2"
   google_plus : "Name"
