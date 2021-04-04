@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the <span style="color: #1f96be;"> University of St Andrews <\span>, School of Mathematics and Statistics, where I am based at the <span style="color: #1f96be;"> Centre for Research into Ecological and Environmental Modelling (CREEM) <\span>.
+I am a postdoctoral researcher at the <span style="color: #1f96be;"> University of St Andrews </span>, School of Mathematics and Statistics, where I am based at the <span style="color: #1f96be;"> Centre for Research into Ecological and Environmental Modelling (CREEM) </span>.
 
 Research Interests
 ======
