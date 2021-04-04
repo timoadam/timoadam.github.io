@@ -38,11 +38,11 @@ Preprints/submitted manuscripts
 
 - Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
 <span style="color: #1f96be;"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</span>
-*biorXiv*, submitted to *Scientific Reports*.
+*bioRxiv*, 2021.03.09.434640, submitted to *Scientific Reports*.
 
 - Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
 <span style="color: #1f96be;">Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</span>
-*arXiv*, submitted to *Computational Statistics and Data Analysis*.
+*arXiv*, 2101.09197, submitted to *Computational Statistics and Data Analysis*.
 
 - Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
 <span style="color: #1f96be;">On the trail of underlying white shark behaviors at Guadalupe Island, Mexico.</span>
@@ -50,7 +50,7 @@ Submitted to *Ecology*.
 
 - Oelschläger, L. and **Adam, T.** (2020): 
 <span style="color: #1f96be;"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</span>
-*arXiv*, submitted to *Statistical Modelling*.
+*arXiv*, 2007.14874, submitted to *Statistical Modelling*.
 
 Publications in conference proceedings
 ------
