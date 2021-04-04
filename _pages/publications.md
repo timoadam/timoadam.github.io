@@ -36,16 +36,16 @@ Multi-scale modeling of animal movement and general behavior data using hidden M
 Preprint publications
 ------
 
-7. Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):\\
-Movement Patterns and Activity Levels are Shaped by The Neonatal Environment in Antarctic Fur Seal Pups.\\
+- Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):\\
+Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.\\
 *bioarXiv*.
 
-8. Pohle, J., **Adam, T.**, and Beumer, L.T. (2021):\\
-Flexible Estimation of the State Dwell-time Distribution in Hidden Semi-Markov Models.\\
+- Pohle, J., **Adam, T.**, and Beumer, L.T. (2021):\\
+Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.\\
 *arXiv*.
 
-9. Oelschläger, L. and **Adam, T.** (2020):\\
-Detecting Bearish and Bullish Markets in Financial Time Series Data Using Hierarchical Hidden Markov Models.\\
+- Oelschläger, L. and **Adam, T.** (2020):\\
+Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.\\
 *arXiv*.
 
 Publications in conference proceedings
