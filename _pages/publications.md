@@ -9,7 +9,7 @@ fontsize: 8pt
 Publications in peer-reviewed scientific journals
 ------
 
-- **Adam, T.**, Mayr, A., and Kneib, T. (2021): <span style="color: blue;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
+- **Adam, T.**, Mayr, A., and Kneib, T. (2021): <span style="color: navy;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
 *Econometrics and Statistics, Part B: Statistics*, accepted.
 
 - Lennox, R.J., Westrelin, S., Souza, A.T., Šmejkal, M., Říha, M., Prchalová, M., Nathan, R., Monk, C., Koeck, B., Killen, S., Jarić, I., Gjelland, K., Hollins, J., Hellstrom, G., Hansen, H., Cooke, S.J., Boukal, D., Brooks, J.L., Brodin, T., Baktoft, H., **Adam, T.**, and Arlinghaus R. (2021): <span style="color: blue;"> A role for lakes in revealing the nature of animal movement using high-dimensional telemetry systems. </span>
