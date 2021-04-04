@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* 6/2016-5/2020: Ph.D in economics, <span style="color: #1f96be;">Bielefeld University</span>, Germany.
+* 6/2016-5/2020: Ph.D in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
 Title of the doctoral thesis: *On some flexible extensions of hidden Markov models*.
 * 8/2014-7/2015: Year abroad at the <span style="color: #1f96be;">University of Copenhagen</span>, DK (funded by an ERASMUS scholarship awarded by the EU).
 * 10/2013-5/2016: M.Sc. in economics, <span style="color: #1f96be;">Bielefeld University</span>, Germany.
