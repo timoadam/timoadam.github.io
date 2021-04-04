@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 Publications in peer-reviewed scientific journals
-======
+------
+
+Adam, T., Mayr, A., and Kneib, T. (2021).
+Gradient boosting in Markov-switching generalized additive models for location, scale, and shape
+Econometrics and Statistics, Part B: Statistics
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
