@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistician primarily working in the areas of... Currently, I work as a postdoctoral researcher at the <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk/">University of St Andrews</a></span>, School of Mathematics and Statistics, where I am based at the <span style="color: #1f96be;"> Centre for Research into Ecological and Environmental Modelling (CREEM)</span>.
+I am a statistician primarily working in the areas of... Currently, I work as a postdoctoral researcher at the <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk/" target="_blank">University of St Andrews</a></span>, School of Mathematics and Statistics, where I am based at the <span style="color: #1f96be;"> Centre for Research into Ecological and Environmental Modelling (CREEM)</span>.
 
 Research Interests
 ======
@@ -19,4 +19,4 @@ I am passionate about developing innovative statistical methods and their applic
 - Spatial capture-recapture models. 
 - Applications in ecology and economics.
 
-A brief introduction of selected topics can be found <span style="color: #1f96be;">here</span>. A list of all publictions can be found <span style="color: #1f96be;">here</span>.
+A brief introduction to selected topics can be found <span style="color: #1f96be;">here</span>. A list of all publictions can be found <span style="color: #1f96be;">here</span>.
