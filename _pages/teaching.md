@@ -11,7 +11,7 @@ author_profile: true
 - <span style="color: navy;"> Generalized linear models. </span>
 *Bielefeld University*, Germany, practical sessions, winter term 2019/2020.
 
-- <span style="color: navy;"> Multivariate Methods. </span>
+- <span style="color: navy;"> Multivariate methods. </span>
 *Bielefeld University*, Germany, practical sessions, winter terms 2016/2017, 2017/2018, and 2018/2019.
 
 - <span style="color: navy;"> Statistics 1. </span>
