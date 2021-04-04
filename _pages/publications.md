@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+fontsize: 8pt
 ---
 
 Publications in peer-reviewed scientific journals
@@ -82,7 +83,7 @@ fHMM: Fitting Hidden Markov Models to Financial Time Series.\\
 *R package*, 0.2.0, CRAN.
 
 17. **Adam, T.** (2019):\\
-countHMM: Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts.
+countHMM: Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts.\\
 *R package*, 0.1.0, CRAN.
 
 
