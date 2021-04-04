@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,6 +13,7 @@ Education
 ------
 * 6/2016-5/2020: Ph.D in Economics, Bielefeld University, Germany.\\
 Title of the doctoral thesis: *On some flexible extensions of hidden Markov models*.
+* 8/2014-7/2015: Year abroad at the University of Copenhagen, Denmark.
 * 10/2013-5/2016: M.Sc. in Economics, Bielefeld University, Germany.\\
 Title of the Master's thesis: *Non-parametric inference in generalized Markov-switching regression models*.
 * 10/2010-9/2013: B.Sc. in Economics, Bielefeld University, Germany.\\
@@ -24,15 +25,6 @@ Work experience
 * 6/2016-5/2020: Research Associate, Statistics and Data Analysis Group, Bielefeld University, Germany.
 * 4/2014-7/2015: Student Assistant, Chair of Computer-based Methods and Chair of Statistics, Bielefeld University, Germany.
 * 10/2012-3/2013: Audit Intern, Mazars GmbH, Bielefeld, Germany.
-  
-Skills
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
   
 Peer-reviewing activites
 ------
