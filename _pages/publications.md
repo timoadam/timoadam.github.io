@@ -9,8 +9,7 @@ fontsize: 8pt
 Publications in peer-reviewed scientific journals
 ------
 
-- **Adam, T.**, Mayr, A., and Kneib, T. (2021):\\
-Gradient boosting in Markov-switching generalized additive models for location, scale, and shape.\\
+- **Adam, T.**, Mayr, A., and Kneib, T. (2021): <span style="color: red;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
 *Econometrics and Statistics, Part B: Statistics*, accepted.
 
 - Lennox, R.J., Westrelin, S., Souza, A.T., Šmejkal, M., Říha, M., Prchalová, M., Nathan, R., Monk, C., Koeck, B., Killen, S., Jarić, I., Gjelland, K., Hollins, J., Hellstrom, G., Hansen, H., Cooke, S.J., Boukal, D., Brooks, J.L., Brodin, T., Baktoft, H., **Adam, T.**, and Arlinghaus R. (2021):\\
