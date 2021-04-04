@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Timo Adam"
+title                    : "Dr. Timo Adam"
 title_separator          : "-"
-name                     : &name "Timo Adam"
+name                     : &name "Dr. Timo Adam"
 description              : &description "personal description"
 url                      : https://timoadam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
