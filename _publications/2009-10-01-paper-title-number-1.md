@@ -6,11 +6,9 @@ excerpt:
 date: 2021-10-01
 venue: 'Econometrics and Statistics, Part B: Statistics'
 paperurl:
-citation: 'Adam, T., Mayr, A., and Kneib, T. (2021). &quot;Gradient boosting in Markov-switching generalized additive models for location, scale, and shape&quot; <i>Econometrics and Statistics, Part B: Statistics</i>. Accepted.'
+citation:
 ---
 
 Adam, T., Mayr, A., and Kneib, T. (2021).
-&quot;Gradient boosting in Markov-switching generalized additive models for location, scale, and shape&quot
+Gradient boosting in Markov-switching generalized additive models for location, scale, and shape
 Econometrics and Statistics, Part B: Statistics
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
