@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks and presentations"
+  - title: "Presentations"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software"
+  - title: "Selected projects"
     url: /portfolio/
     
-  - title: "CV"
+  - title: "Short CV"
     url: /cv/
