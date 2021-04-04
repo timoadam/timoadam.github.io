@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -8,65 +8,65 @@ author_profile: true
 Invited talks
 ------
 
-- Statistical modeling of animal tracking data using hidden Markov models.\\
+- <span style="color: #1f96be;"> Statistical modeling of animal tracking data using hidden Markov models. </span>
 *LUKE (Natural Resources Institute Finland)*, Helsinki, Finland, September 2019.
 
-- Model-based clustering of time series data: a flexible approach using nonparametric state-switching quantile regression models.\\
+- <span style="color: #1f96be;"> Model-based clustering of time series data: a flexible approach using nonparametric state-switching quantile regression models. </span>
 *12th Scientific Meeting on Classification and Data Analysis*, Cassino, Italy, September 2019.
 
-- Statistical modeling of animal telemetry data at multiple temporal resolutions: hidden Markov models and extensions.\\
+- <span style="color: #1f96be;"> Statistical modeling of animal telemetry data at multiple temporal resolutions: hidden Markov models and extensions. </span>
 *7th Nordic-Baltic Biometric Conference*, Vilnius, Lithuania, June 2019.
 
-- Joint modeling of multi-scale time series data using hierarchical hidden Markov models.\\
+- <span style="color: #1f96be;"> Joint modeling of multi-scale time series data using hierarchical hidden Markov models. </span>
 *11th CMStatistics*, Pisa, Italy, December 2018.
 
-- Statistical modeling of animal telemetry data: hidden Markov models and extensions.\\
+- <span style="color: #1f96be;"> Statistical modeling of animal telemetry data: hidden Markov models and extensions. </span>
 *1st International Lake Fish Telemetry Group Workshop*, Czech Academy of Sciences, České Budějovice, Czech Republic, November 2018.
 
-- Joint modeling of multi-scale animal movement data using hierarchical hidden Markov models: a practical introduction using R.\\
+- <span style="color: #1f96be;"> Joint modeling of multi-scale animal movement data using hierarchical hidden Markov models: a practical introduction using R. </span>
 *Iowa State University*, Ames, IA, USA, September 2018.
 
-- Gradient boosting in generalized Markov-switching regression models.\\
+- <span style="color: #1f96be;"> Gradient boosting in generalized Markov-switching regression models. </span>
 *23rd COMPSTAT*, Iasi, Romania, August 2018.
 
-- Statistical boosting in Markov-switching generalized additive models for location, scale, and shape.\\
+- <span style="color: #1f96be;"> Statistical boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
 *10th CMStatistics*, London, UK, December 2017.
 
 Contributed talks
 ------
 
-- Non-parametric inference in hidden Markov models for time series of counts.\\
+- <span style="color: #1f96be;"> Non-parametric inference in hidden Markov models for time series of counts. </span>
 *34th International Workshop on Statistical Modelling*, Guimarães, Portugal, July 2019.
 
--	Semi-parametric hidden Markov models for time series of counts.\\
+-	<span style="color: #1f96be;"> Semi-parametric hidden Markov models for time series of counts. </span>
 *5th DagStat*, Munich, Germany, March 2019.
 
--	Semi-parametric hidden Markov models for discrete-valued time series.\\
+-	<span style="color: #1f96be;"> Semi-parametric hidden Markov models for discrete-valued time series. </span>
 *Workshop of the Centre for Statistics*, Bielefeld, Germany, December 2018.
 
--	Statistical boosting for Markov-switching distributional regression models.\\
+-	<span style="color: #1f96be;"> Statistical boosting for Markov-switching distributional regression models. </span>
 *33rd International Workshop on Statistical Modelling*, Bristol, UK, July 2018.
 
--	Joint modeling of multi-scale animal movement data using hierarchical hidden Markov models.\\
+-	<span style="color: #1f96be;"> Joint modeling of multi-scale animal movement data using hierarchical hidden Markov models. </span>
 *6th International Statistical Ecology Conference*, St Andrews, UK, July 2018.
 
--	Multi-scale modeling of animal telemetry data using hidden Markov models with hierarchical structures.\\
+-	<span style="color: #1f96be;"> Multi-scale modeling of animal telemetry data using hidden Markov models with hierarchical structures. </span>
 *Workshop of the Centre for Statistics*, Bielefeld, Germany, June 2018.
 
--	Gradient boosting in Markov-switching generalized additive models for location, scale, and shape.\\
+-	<span style="color: #1f96be;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
 *Workshop of the Centre for Statistics*, Bielefeld, Germany, October 2017.
 
--	Modeling animal telemetry data at multiple temporal scales.\\
+-	<span style="color: #1f96be;"> Modeling animal telemetry data at multiple temporal scales. </span>
 *Workshop of the Centre for Statistics*, Bielefeld, Germany, October 2016.
 
--	Non-parametric inference in generalized Markov-switching regression models.\\
+-	<span style="color: #1f96be;"> Non-parametric inference in generalized Markov-switching regression models. </span>
 *Workshop of the Centre for Statistics*, Bielefeld, Germany, April 2016.
 
 Poster presentations
 ------
 
--	Multi-scale modeling of animal movement data using hierarchical hidden Markov models.\\
+-	<span style="color: #1f96be;"> Multi-scale modeling of animal movement data using hierarchical hidden Markov models. </span>
 *6th International Bio-logging Science Symposium*, Constance, Germany, September 2017.
 
--	Using hierarchical hidden Markov models for joint inference at multiple temporal scales.\\
+-	<span style="color: #1f96be;"> Using hierarchical hidden Markov models for joint inference at multiple temporal scales. </span>
 *32nd Interna-tional Workshop on Statistical Modelling*, Groningen, The Netherlands, July 2017.
