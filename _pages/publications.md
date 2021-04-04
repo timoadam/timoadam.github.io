@@ -90,8 +90,12 @@ Software
 <span style="color: #1f96be;"> countHMM: penalized estimation of flexible hidden Markov models for time series of counts.</span>
 *R package*, 0.1.0, CRAN.
 
+Thesis
+------
 
-
+-  **Adam, T.** (2020):
+<span style="color: #1f96be;"> On some flexible extensions of hidden Markov models.</span>
+*Dissertation*, Bielefeld University.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
