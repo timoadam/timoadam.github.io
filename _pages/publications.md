@@ -33,20 +33,24 @@ Publications in peer-reviewed scientific journals
 <span style="color: #1f96be;"> Multi-scale modeling of animal movement and general behavior data using hidden Markov models with hierarchical structures. </span>
 *Journal of Agricultural, Biological, and Environmental Statistics*, **22**(3), 232-248.
 
-Preprint publications
+Preprints/submitted manuscripts
 ------
 
 - Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
 <span style="color: #1f96be;"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</span>
-*biorXiv*.
+*biorXiv*, submitted to *Scientific Reports*.
 
 - Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
 <span style="color: #1f96be;">Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</span>
-*arXiv*.
+*arXiv*, submitted to *Computational Statistics and Data Analysis*.
+
+- Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
+<span style="color: #1f96be;">On the trail of underlying white shark behaviors at Guadalupe Island, Mexico.</span>
+Submitted to *Ecology*.
 
 - Oelschläger, L. and **Adam, T.** (2020): 
 <span style="color: #1f96be;"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</span>
-*arXiv*.
+*arXiv*, submitted to *Statistical Modelling*.
 
 Publications in conference proceedings
 ------
