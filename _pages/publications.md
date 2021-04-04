@@ -16,6 +16,11 @@ Gradient boosting in Markov-switching generalized additive models for location, 
 A role for lakes in revealing the nature of animal movement using high dimensional telemetry systems.\\
 *Movement Ecology*, accepted.
 
+3. **Adam, T.**, Griffiths, C.A., Leos-Barajas, V., Meese, E.N., Lowe, C.G., Blackwell, P.G., Righton, D., and Langrock, R. (2019):\\
+Joint modelling of multi-scale animal movement data using hierarchical hidden Markov models.\\
+*Methods in Ecology and Evolution*, 10(9), 1536-1550.
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
