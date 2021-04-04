@@ -32,6 +32,20 @@ Spline-based Non-parametric Inference in General State-switching Models.\\
 Multi-scale Modeling of Animal Movement and General Behavior Data Using Hidden Markov Models with Hierarchical Structures.\\
 *Journal of Agricultural, Biological, and Environmental Statistics*, 22(3), 232-248.
 
+Preprints
+------
+
+7. Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):\\
+Movement Patterns and Activity Levels are Shaped by The Neonatal Environment in Antarctic Fur Seal Pups.\\
+*bioarXiv*.
+
+8. Pohle, J., **Adam, T.**, and Beumer, L. (2021):\\
+Flexible Estimation of the State Dwell-time Distribution in Hidden Semi-Markov Models.\\
+*arXiv*.
+
+9. Oelschläger, L. and **Adam, T.** (2020):\\
+Detecting Bearish and Bullish Markets in Financial Time Series Data Using Hierarchical Hidden Markov Models.\\
+*arXiv*.
 
 
 
