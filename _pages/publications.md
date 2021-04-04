@@ -20,6 +20,19 @@ A Role for Lakes in Revealing the Nature of Animal Movement Using High-dimension
 Joint Modelling of Multi-scale Animal Movement Data Using Hierarchical Hidden Markov Models.\\
 *Methods in Ecology and Evolution*, 10(9), 1536-1550.
 
+4. **Adam, T.**, Langrock, R., and Weiß, C.H. (2019):\\
+Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts.\\
+*METRON*, 77(2), 87-104.
+
+5.	Langrock, R., **Adam, T.**, Leos-Barajas, V., Mews, S., Miller, D.L., and Papastamatiou, Y.P. (2018):\\
+Spline-based Non-parametric Inference in General State-switching Models.\\
+*Statistica Neerlandica*, 72(3), 179-200.
+
+6.	Leos-Barajas, V., Gangloff, E.J., **Adam, T.**, Langrock, R., van Beest, F.M., Nabe-Nielsen, J., and Morales, J.M. (2017):\\
+Multi-scale Modeling of Animal Movement and General Behavior Data Using Hidden Markov Models with Hierarchical Structures.\\
+*Journal of Agricultural, Biological, and Environmental Statistics*, 22(3), 232-248.
+
+
 
 
 {% if author.googlescholar %}
