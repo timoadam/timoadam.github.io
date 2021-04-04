@@ -8,7 +8,7 @@ author_profile: true
 Practicals
 ------
 
-- <span style="color: #1f96be;"> Computing in statistics. </span>
+- <span style="color: #1f96be;"><b> Computing in statistics. </b></span>
 *University of St Andrews*, UK, winter term 2020/2021.
 
 - <span style="color: #1f96be;"> Generalized linear models. </span>
