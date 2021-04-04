@@ -2,11 +2,11 @@
 title: "Gradient boosting in Markov-switching generalized additive models for location, scale, and shape"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt:
+date: 2021
 venue: 'Econometrics and Statistics, Part B: Statistics'
 paperurl:
-citation: 'Adam, T., Mayr, A., and Kneib, T. (2021). &quot;Gradient boosting in Markov-switching generalized additive models for location, scale, and shape&quot; <i>Econometrics and Statistics, Part B: Statistics</i>. 1(1).'
+citation: 'Adam, T., Mayr, A., and Kneib, T. (2021). &quot;Gradient boosting in Markov-switching generalized additive models for location, scale, and shape&quot; <i>Econometrics and Statistics, Part B: Statistics</i>. Accepted.'
 ---
 
 Adam, T., Mayr, A., and Kneib, T. (2021).
