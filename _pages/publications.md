@@ -73,7 +73,7 @@ Publications in conference proceedings
 
 -	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):
 <span style="color: #1f96be;"> Using hierarchical hidden Markov models for joint inference at multiple temporal scales.</span>
-*Proceedings of the 32nd Interna-tional Workshop on Statistical Modelling*, **2**, 181-184.
+*Proceedings of the 32nd International Workshop on Statistical Modelling*, **2**, 181-184.
 
 Software
 ------
