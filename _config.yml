@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Timo Adam"
   avatar           : "Timo.jpg"
-  bio              : "Research Fellow in Statistics\ University of St Andrews, UK"
+  bio              : "Research Fellow in Statistics\ University of St Andrews,\ School of Mathematics and Statistics"
   location         : "St Andrews, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=C8WuHG4AAAAJ&hl=de"
-  email            :
+  email            : "ta59@st-andrews.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
