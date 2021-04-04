@@ -8,11 +8,9 @@ author_profile: true
 Publications in peer-reviewed scientific journals
 ------
 
-<font size="1">
 1. **Adam, T.**, Mayr, A., and Kneib, T. (2021):\\
 Gradient Boosting in Markov-switching Generalized Additive Models for Location, Scale, and Shape.\\
 *Econometrics and Statistics, Part B: Statistics*, accepted.
-</font>
 
 2. Lennox, R.J., Westrelin, S., Souza, A.T., Šmejkal, M., Říha, M., Prchalová, M., Nathan, R., Monk, C., Koeck, B., Killen, S., Jarić, I., Gjelland, K., Hollins, J., Hellstrom, G., Hansen, H., Cooke, S.J., Boukal, D., Brooks, J.L., Brodin, T., Baktoft, H., **Adam, T.**, and Arlinghaus R. (2021):\\
 A Role for Lakes in Revealing the Nature of Animal Movement Using High-dimensional Telemetry Systems.\\
@@ -34,7 +32,7 @@ Spline-based Non-parametric Inference in General State-switching Models.\\
 Multi-scale Modeling of Animal Movement and General Behavior Data Using Hidden Markov Models with Hierarchical Structures.\\
 *Journal of Agricultural, Biological, and Environmental Statistics*, **22**(3), 232-248.
 
-Preprints
+Preprint publications
 ------
 
 7. Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):\\
@@ -75,6 +73,19 @@ Statistical Boosting for Markov-switching Distributional Regression Models.\\
 15.	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):\\
 Using Hierarchical Hidden Markov Models for Joint Inference at Multiple Temporal Scales.\\
 *Proceedings of the 32nd Interna-tional Workshop on Statistical Modelling*, **2**, 181-184.
+
+Software
+------
+
+16.	Oelschläger, L. and **Adam, T.** (2021):\\
+fHMM: Fitting Hidden Markov Models to Financial Time Series.\\
+*R package*, 0.2.0, CRAN.
+
+17. **Adam, T.** (2019):\\
+countHMM: Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts.
+*R package*, 0.1.0, CRAN.
+
+
 
 
 {% if author.googlescholar %}
