@@ -46,7 +46,7 @@ Preprints/submitted manuscripts
 
 - Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
 <span style="color: #1f96be;">On the trail of underlying white shark behaviors at Guadalupe Island, Mexico.</span>
-Submitted to *Ecology*.
+Submitted to *Functional Ecology*.
 
 - Oelschläger, L. and **Adam, T.** (2020): 
 <span style="color: #1f96be;"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</span>
