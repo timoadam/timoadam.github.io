@@ -51,39 +51,39 @@ Detecting bearish and bullish markets in financial time series data using hierar
 Publications in conference proceedings
 ------
 
-10. **Adam, T.** and Oelschläger, L. (2020):\\
+- **Adam, T.** and Oelschläger, L. (2020):\\
 Hidden Markov models for multi-scale time series: an application to stock market data.\\
 *Proceedings of the 35th International Workshop on Statistical Modelling*, **1**.
 
-11.	Pohle, J., **Adam, T.**, Beumer, L.T., and Langrock, R. (2020):\\
-Flexible Estimation of the State Dwell-time Distribution in Hidden Semi-Markov Models.\\
+-	Pohle, J., **Adam, T.**, Beumer, L.T., and Langrock, R. (2020):\\
+Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.\\
 *Proceedings of the 35th International Workshop on Statistical Modelling*, **1**.
 
-12.	**Adam, T.**, Langrock, R., and Kneib, T. (2019):\\
-Model-based Clustering of Time Series Data: a Flexible Approach Using Non-parametric State-switching Quantile Regression Models.\\
+-	**Adam, T.**, Langrock, R., and Kneib, T. (2019):\\
+Model-based clustering of time series data: a flexible approach using non-parametric state-switching quantile regression models.\\
 *Book of Short Papers of the 12th Scientific Meeting on Classification and Data Analysis*, 19-22.
 
-13.	**Adam, T.**, Langrock, R., and Weiß, C.H. (2019):\\
-Non-parametric Inference in Hidden Markov Models for Time Series of Counts.\\
+-	**Adam, T.**, Langrock, R., and Weiß, C.H. (2019):\\
+Non-parametric inference in hidden Markov models for time series of counts.\\
 *Proceedings of the 34th International Workshop on Statistical Modelling*, **1**, 135-140.
 
-14.	**Adam, T.**, Mayr, A., Kneib, T., and Langrock, R. (2018):\\
-Statistical Boosting for Markov-switching Distributional Regression Models.\\
+-	**Adam, T.**, Mayr, A., Kneib, T., and Langrock, R. (2018):\\
+Statistical boosting for Markov-switching distributional regression models.\\
 *Proceedings of the 33rd International Workshop on Statistical Modelling*, **1**, 30-35.
 
-15.	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):\\
-Using Hierarchical Hidden Markov Models for Joint Inference at Multiple Temporal Scales.\\
+-	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):\\
+Using hierarchical hidden Markov models for joint inference at multiple temporal scales.\\
 *Proceedings of the 32nd Interna-tional Workshop on Statistical Modelling*, **2**, 181-184.
 
 Software
 ------
 
-16.	Oelschläger, L. and **Adam, T.** (2021):\\
-fHMM: Fitting Hidden Markov Models to Financial Time Series.\\
+-	Oelschläger, L. and **Adam, T.** (2021):\\
+fHMM: fitting hidden Markov models to financial time series.\\
 *R package*, 0.2.0, CRAN.
 
-17. **Adam, T.** (2019):\\
-countHMM: Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts.\\
+- **Adam, T.** (2019):\\
+countHMM: penalized estimation of flexible hidden Markov models for time series of counts.\\
 *R package*, 0.1.0, CRAN.
 
 
