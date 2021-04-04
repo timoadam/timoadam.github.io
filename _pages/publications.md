@@ -57,11 +57,11 @@ Publications in conference proceedings
 
 - **Adam, T.** and Oelschläger, L. (2020):
 <span style="color: #1f96be;"><b> Hidden Markov models for multi-scale time series: an application to stock market data. </b></span>
-*Proceedings of the 35th International Workshop on Statistical Modelling*, **1**.
+*Proceedings of the 35th International Workshop on Statistical Modelling*, **1**, 2-7.
 
 -	Pohle, J., **Adam, T.**, Beumer, L.T., and Langrock, R. (2020):
 <span style="color: #1f96be;"><b> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models. </b></span>
-*Proceedings of the 35th International Workshop on Statistical Modelling*, **1**.
+*Proceedings of the 35th International Workshop on Statistical Modelling*, **1**, 189-193.
 
 -	**Adam, T.**, Langrock, R., and Kneib, T. (2019):
 <span style="color: #1f96be;"><b> Model-based clustering of time series data: a flexible approach using non-parametric state-switching quantile regression models. </b></span>
