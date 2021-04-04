@@ -17,15 +17,10 @@ Education
 
 Work experience
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 6/2020: Research Fellow, School of Mathematics and Statistics, University of St Andrews, UK.
+* 6/2016-5/2020: Research Associate, Statistics and Data Analysis Group, Bielefeld University, Germany.
+* 4/2014-7/2015: Student Assistant, Chair of Computer-based Methods and Chair of Statistics, Bielefeld University, Germany.
+* 10/2012-3/2013: Audit Intern, Mazars GmbH, Bielefeld, Germany.
   
 Skills
 ------
