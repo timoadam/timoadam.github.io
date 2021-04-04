@@ -22,7 +22,7 @@ Publications in peer-reviewed scientific journals
 *Methods in Ecology and Evolution*, **10**(9), 1536-1550. 
 
 - **Adam, T.**, Langrock, R., and Weiß, C.H. (2019): 
-<span style="color: blue;"> Penalized estimation of flexible hidden Markov models for time series of counts. </span>
+<span style="color: navy;"> Penalized estimation of flexible hidden Markov models for time series of counts. </span>
 *METRON*, **77**(2), 87-104.
 
 -	Langrock, R., **Adam, T.**, Leos-Barajas, V., Mews, S., Miller, D.L., and Papastamatiou, Y.P. (2018):
