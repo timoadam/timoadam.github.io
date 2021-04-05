@@ -26,6 +26,13 @@ Work experience
 * 4/2014-7/2015: Student assistant, Chair of Computer-based Methods and Chair of Statistics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 * 10/2012-3/2013: Audit intern, <span style="color: #1f96be;"><a href="https://eng.mazars.de" target="_blank">Mazars GmbH</a></span>, Bielefeld, GER.
   
+Awards, travel grants, and scholarships
+------
+* Travel scholarship awarded by the German Academic Exchange Service (DAAD) to attend the 7th Nordic-Baltic Biometric Conference, Vilnius, LIT, 6/2019.
+* Publication award for junior scientists awarded by the Department of Economics, Bielefeld University, GER, 5/2017, 10/2018, and 6/2019.
+* Best student presentation award of the 6th International Statistical Ecology Conference, St Andrews, UK, 7/2018.
+* ERASMUS Scholarship awarded by the EU to study a year abroad at the University of Copenhagen, DK, 8/2014-7/2015.
+
 Peer-reviewing activites
 ------
 * I served as a reviewer for the *Journal of the Royal Statistical Society (Series A)*, *Annals of Applied Statistics*, *Computational Statistics and Data Analysis*, *Statistics in Medicine*, *Biometrical Journal*, *Frontiers in Ecology and Evolution*, and *Ecology and Evolution*.
