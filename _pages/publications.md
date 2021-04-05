@@ -18,7 +18,7 @@ Publications in peer-reviewed scientific journals
 *Movement Ecology*, accepted.
 
 - **Adam, T.**, Griffiths, C.A., Leos-Barajas, V., Meese, E.N., Lowe, C.G., Blackwell, P.G., Righton, D., and Langrock, R. (2019): 
-<span style="color: #1f96be;"> Joint modelling of multi-scale animal movement data using hierarchical hidden Markov models. </span>
+<span style="color: #1f96be;"><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13241" target="_blank"> Joint modelling of multi-scale animal movement data using hierarchical hidden Markov models. </a></span>
 *Methods in Ecology and Evolution*, **10**(9), 1536-1550. 
 
 - **Adam, T.**, Langrock, R., and Weiß, C.H. (2019): 
