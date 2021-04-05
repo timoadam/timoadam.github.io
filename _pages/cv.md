@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic education
 ------
 * 6/2016-5/2020: Ph.D. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 Title of the doctoral thesis: *On some flexible extensions of hidden Markov models*.
