@@ -18,7 +18,7 @@ Publications in peer-reviewed scientific journals
 *Movement Ecology*, accepted.
 
 - **Adam, T.**, Griffiths, C.A., Leos-Barajas, V., Meese, E.N., Lowe, C.G., Blackwell, P.G., Righton, D., and Langrock, R. (2019): 
-<span style="color: #1f96be;"><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13241" target="_blank"> Joint modelling of multi-scale animal movement data using hierarchical hidden Markov models. </a></span>
+<span style="color: #1f96be;"><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13241" target="_blank"> Joint modelling of multi-scale animal movement data using hierarchical hidden Markov models.</a></span>
 *Methods in Ecology and Evolution*, **10**(9), 1536-1550. 
 
 - **Adam, T.**, Langrock, R., and Weiß, C.H. (2019): 
@@ -26,11 +26,11 @@ Publications in peer-reviewed scientific journals
 *METRON*, **77**(2), 87-104.
 
 -	Langrock, R., **Adam, T.**, Leos-Barajas, V., Mews, S., Miller, D.L., and Papastamatiou, Y.P. (2018):
-<span style="color: #1f96be;"> Spline-based non-parametric inference in general state-switching models. </span>
+<span style="color: #1f96be;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/stan.12133" target="_blank"> Spline-based non-parametric inference in general state-switching models.</a></span>
 *Statistica Neerlandica*, **72**(3), 179-200.
 
 -	Leos-Barajas, V., Gangloff, E.J., **Adam, T.**, Langrock, R., van Beest, F.M., Nabe-Nielsen, J., and Morales, J.M. (2017): 
-<span style="color: #1f96be;"> Multi-scale modeling of animal movement and general behavior data using hidden Markov models with hierarchical structures. </span>
+<span style="color: #1f96be;"><a href="https://link.springer.com/article/10.1007/s13253-017-0282-9" target="_blank"> Multi-scale modeling of animal movement and general behavior data using hidden Markov models with hierarchical structures.</a></span>
 *Journal of Agricultural, Biological, and Environmental Statistics*, **22**(3), 232-248.
 
 Preprints/submitted manuscripts
