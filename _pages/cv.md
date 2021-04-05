@@ -28,9 +28,9 @@ Work experience
   
 Awards, travel grants, and scholarships
 ------
-* Travel scholarship awarded by the German Academic Exchange Service (DAAD) to attend the 7th Nordic-Baltic Biometric Conference, Vilnius, LIT, 6/2019.
+* Travel scholarship awarded by the German Academic Exchange Service (DAAD) to attend the *7th Nordic-Baltic Biometric Conference*, Vilnius, LIT, 6/2019.
 * Publication award for junior scientists awarded by the Department of Economics, Bielefeld University, GER, 5/2017, 10/2018, and 6/2019.
-* Best student presentation award of the 6th International Statistical Ecology Conference, St Andrews, UK, 7/2018.
+* Best student presentation award of the *6th International Statistical Ecology Conference*, St Andrews, UK, 7/2018.
 * ERASMUS Scholarship awarded by the EU to study a year abroad at the University of Copenhagen, DK, 8/2014-7/2015.
 
 Peer-reviewing activites
