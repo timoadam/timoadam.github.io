@@ -22,7 +22,7 @@ Publications in peer-reviewed scientific journals
 *Methods in Ecology and Evolution*, **10**(9), 1536-1550. 
 
 - **Adam, T.**, Langrock, R., and Weiß, C.H. (2019): 
-<span style="color: #1f96be;"> Penalized estimation of flexible hidden Markov models for time series of counts. </span>
+<span style="color: #1f96be;"><a href="https://link.springer.com/article/10.1007/s40300-019-00153-6" target="_blank"> Penalized estimation of flexible hidden Markov models for time series of counts.</a></span>
 *METRON*, **77**(2), 87-104.
 
 -	Langrock, R., **Adam, T.**, Leos-Barajas, V., Mews, S., Miller, D.L., and Papastamatiou, Y.P. (2018):
@@ -37,11 +37,11 @@ Preprints/submitted manuscripts
 ------
 
 - Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
-<span style="color: #1f96be;"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups. </span>
+<span style="color: #1f96be;"><a href="https://www.biorxiv.org/content/10.1101/2021.03.09.434640v1.abstract" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
 *bioRxiv*, 2021.03.09.434640, submitted to *Scientific Reports*.
 
 - Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
-<span style="color: #1f96be;"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models. </span>
+<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2101.09197" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
 *arXiv*, 2101.09197, submitted to *Computational Statistics and Data Analysis*.
 
 - Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
@@ -49,7 +49,7 @@ Preprints/submitted manuscripts
 Submitted to *Functional Ecology*.
 
 - Oelschläger, L. and **Adam, T.** (2020): 
-<span style="color: #1f96be;"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models. </span>
+<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2007.14874" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
 *arXiv*, 2007.14874, submitted to *Statistical Modelling*.
 
 Publications in conference proceedings
@@ -83,11 +83,11 @@ Software
 ------
 
 -	Oelschläger, L. and **Adam, T.** (2021):
-<span style="color: #1f96be;"> fHMM: fitting hidden Markov models to financial time series. </span>
+<span style="color: #1f96be;"><a href="https://CRAN.R-project.org/package=fHMM" target="_blank"> fHMM: fitting hidden Markov models to financial time series.</a></span>
 *R package*, 0.2.0, CRAN.
 
 - **Adam, T.** (2019):
-<span style="color: #1f96be;"> countHMM: penalized estimation of flexible hidden Markov models for time series of counts. </span>
+<span style="color: #1f96be;"><a href="https://CRAN.R-project.org/package=countHMM" target="_blank"> countHMM: penalized estimation of flexible hidden Markov models for time series of counts.</a></span>
 *R package*, 0.1.0, CRAN.
 
 Thesis
