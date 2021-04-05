@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ------
-* 6/2016-5/2020: Ph.D. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
+* 6/2016-5/2020: Ph.D. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 Title of the doctoral thesis: *On some flexible extensions of hidden Markov models*.
 * 8/2014-7/2015: Year abroad at the <span style="color: #1f96be;"><a href="https://www.ku.dk/english" target="_blank">University of Copenhagen</a></span>, DK (funded by an ERASMUS scholarship awarded by the EU).
-* 10/2013-5/2016: M.Sc. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
+* 10/2013-5/2016: M.Sc. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 Title of the Master's thesis: *Non-parametric inference in generalized Markov-switching regression models*.
-* 10/2010-9/2013: B.Sc. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
+* 10/2010-9/2013: B.Sc. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 Title of the Bachelor's thesis: *Einführung in quantile Regressionsmodelle und deren Schätzung mit penalisierten B-Splines* (Introduction to quantile regression models and their estimation using penalized B-splines).
 
 Work experience
 ------
 * Since 6/2020: Research fellow in statistics, School of Mathematics and Statistics, <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk" target="_blank">University of St Andrews</a></span>, UK.
-* 6/2016-5/2020: Research associate, Statistics and Data Analysis Group, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
-* 4/2014-7/2015: Student assistant, Chair of Computer-based Methods and Chair of Statistics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
-* 10/2012-3/2013: Audit intern, <span style="color: #1f96be;"><a href="https://eng.mazars.de" target="_blank">Mazars GmbH</a></span>, Bielefeld, Germany.
+* 6/2016-5/2020: Research associate, Statistics and Data Analysis Group, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
+* 4/2014-7/2015: Student assistant, Chair of Computer-based Methods and Chair of Statistics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
+* 10/2012-3/2013: Audit intern, <span style="color: #1f96be;"><a href="https://eng.mazars.de" target="_blank">Mazars GmbH</a></span>, Bielefeld, GER.
   
 Peer-reviewing activites
 ------
