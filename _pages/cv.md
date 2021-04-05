@@ -22,8 +22,8 @@ Title of the Bachelor's thesis: *Einführung in quantile Regressionsmodelle und 
 Work experience
 ------
 * Since 6/2020: Research fellow in statistics, School of Mathematics and Statistics, <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk" target="_blank">University of St Andrews</a></span>, UK.
-* 6/2016-5/2020: Research associate, Statistics and Data Analysis Group, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
-* 4/2014-7/2015: Student assistant, Chair of Computer-based Methods and Chair of Statistics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
+* 6/2016-5/2020: Research associate, Department of Economics, Statistics and Data Analysis Group, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
+* 4/2014-7/2015: Student assistant, Department of Economics, Chair of Computer-based Methods and Chair of Statistics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, GER.
 * 10/2012-3/2013: Audit intern, <span style="color: #1f96be;"><a href="https://eng.mazars.de" target="_blank">Mazars</a></span>, Bielefeld, GER.
   
 Awards, travel grants, and scholarships
