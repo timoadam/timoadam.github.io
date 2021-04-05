@@ -16,7 +16,7 @@ Research interests
 I am passionate about developing innovative statistical methods and their application in ecology (animal movement and population modelling) and economics (stock market modelling). In particular, my research focuses on the following topics:
 
 - Hidden Markov models and their extensions.
-- Non-parametric modeling techniques.
+- Non-parametric modelling techniques.
 - (Open population) spatial capture-recapture models. 
 - Statistical software development.
 - Applications in ecology and economics.
