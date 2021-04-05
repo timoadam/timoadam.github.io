@@ -17,7 +17,7 @@ I am passionate about developing innovative statistical methods and their applic
 
 - Hidden Markov models and their extensions.
 - Non-parametric modeling techniques.
-- Open population spatial capture-recapture models. 
+- (Open population) spatial capture-recapture models. 
 - Statistical software development.
 - Applications in ecology and economics.
 
