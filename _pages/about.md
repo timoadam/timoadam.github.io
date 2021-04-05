@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistician primarily working in the areas of... Currently, I work as a postdoctoral researcher at the <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk/" target="_blank">University of St Andrews</a></span>, UK, where I am based at the <span style="color: #1f96be;"><a href="https://www.creem.st-andrews.ac.uk/" target="_blank"> Centre for Research into Ecological and Environmental Modelling (CREEM)</a></span>. Previously, I did a PhD in economics (with a focus on statistics) at Bielefeld University, Germany.
+I am a statistician primarily working in the area of statistical ecology. Since June 2020, I work as a postdoctoral researcher at the <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk/" target="_blank">University of St Andrews</a></span>, where I am based at the <span style="color: #1f96be;"><a href="https://www.creem.st-andrews.ac.uk/" target="_blank"> Centre for Research into Ecological and Environmental Modelling (CREEM)</a></span>. Between June 2016 and May 2020, I did a Ph.D. in economics at Bielefeld University, supervised by Prof. Roland Langrock.
 
 I am passionate about developing innovative statistical methods and their application in ecology (satellite tracking/animal movement modeling) and economics/finance (stock market modeling).
 
