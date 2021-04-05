@@ -21,4 +21,4 @@ I am passionate about developing innovative statistical methods and their applic
 - Statistical software development.
 - Applications in ecology and economics.
 
-An overview of selected topics can be found <span style="color: #1f96be;"><a href="https://timoadam.github.io//portfolio/">here</a></span>. A list of publications is available <span style="color: #1f96be;"><a href="https://timoadam.github.io//publications/">here</a></span>.
+An overview of selected projects can be found <span style="color: #1f96be;"><a href="https://timoadam.github.io//portfolio/">here</a></span>. A list of publications is available <span style="color: #1f96be;"><a href="https://timoadam.github.io//publications/">here</a></span>.
