@@ -12,10 +12,10 @@ Practicals
 *University of St Andrews*, UK, winter term 2020/2021. Contents: modular programming, manipulating data, simulating data with specific properties, and investigating procedures under the failure of statistical assumptions.
 
 - <span style="color: #1f96be;"><a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=175273967" target="_blank"> Generalised Linear Models.</a></span>
-*Bielefeld University*, GER, winter term 2019/2020. Contents: simple linear regression models, generalised linear and additive models, generalised linear mixed models, parameter estimation and inference, model selection and model checking.
+*Bielefeld University*, GER, winter term 2019/2020. Contents: basic linear regression models, generalised linear and additive models, generalised linear mixed models, parameter estimation and inference, model selection and model checking.
 
 - <span style="color: #1f96be;"><a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=132129162" target="_blank"> Multivariate Methods.</a></span>
-*Bielefeld University*, GER, winter terms 2016/2017, 2017/2018, and 2018/2019. Contents: linear regression models, classification, and clustering.
+*Bielefeld University*, GER, winter terms 2016/2017, 2017/2018, and 2018/2019. Contents: basic linear regression models, various classification and clustering techniques.
 
 Tutorials
 ------
