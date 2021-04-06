@@ -18,7 +18,7 @@ I am passionate about developing innovative statistical methods and their applic
 - Hidden Markov models and their extensions.
 - Non-parametric modelling techniques.
 - (Open population) spatial capture-recapture models. 
-- Statistical software development.
+- Statistical software development in R.
 - Applications in ecology and economics.
 
 An overview of selected projects can be found <span style="color: #1f96be;"><a href="https://timoadam.github.io//portfolio/">here</a></span>. A list of publications is available <span style="color: #1f96be;"><a href="https://timoadam.github.io//publications/">here</a></span>.
