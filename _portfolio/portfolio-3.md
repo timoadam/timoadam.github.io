@@ -1,6 +1,6 @@
 ---
 title: "Markov-switching generalised additive models for location, scale, and shape"
-excerpt: "Short description of portfolio item number 3 <br/><img src='/images/Project3.png' width='500'>"
+excerpt: "Short description of portfolio item number 3 <br/><img src='/images/Project3.png' width='600'>"
 collection: portfolio
 ---
 
