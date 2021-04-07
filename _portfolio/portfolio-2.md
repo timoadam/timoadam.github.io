@@ -1,6 +1,6 @@
 ---
 title: "Hierarchical hidden Markov models for multi-scale time series"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/Project3.png' width = '576'>"
 collection: portfolio
 ---
 
