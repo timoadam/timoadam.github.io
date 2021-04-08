@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title:
 excerpt:
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src='/images/StA.png' width='900'>
+<img src='/images/StA.png' width='895'>
 
 About me
 ======
