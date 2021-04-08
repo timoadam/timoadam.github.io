@@ -1,9 +1,14 @@
 ---
 permalink: /publications/
-title: "Publications"
+title:
 excerpt:
 author_profile: true
 ---
+
+<img src='/images/StA3.png' width='895'>
+
+Publications
+======
 
 Publications in peer-reviewed scientific journals
 ------
