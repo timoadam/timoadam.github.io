@@ -1,9 +1,12 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
+title:
+excerpt:
 author_profile: true
 ---
+
+Teaching
+======
 
 Practicals
 ------
