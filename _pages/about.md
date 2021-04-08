@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src='/images/StA.png' width='895'>
+<img src='/images/StA2.png' width='895'>
 
 About me
 ======
