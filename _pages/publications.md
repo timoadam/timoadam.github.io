@@ -1,9 +1,8 @@
 ---
-layout: archive
+layout:
 title: "Publications"
 permalink: /publications/
 author_profile: true
-fontsize: 8pt
 ---
 
 Publications in peer-reviewed scientific journals
