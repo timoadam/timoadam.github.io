@@ -1,13 +1,12 @@
 ---
-layout: archive
-title: "Short CV"
 permalink: /cv/
+title:
+excerpt:
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+Short CV
+======
 
 Academic education
 ------
