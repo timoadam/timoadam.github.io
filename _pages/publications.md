@@ -6,7 +6,13 @@ author_profile: true
 fontsize: 8pt
 ---
 
-<em> padding-right: 25em </em>
+<style type="text/css">
+.main-container {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 Publications in peer-reviewed scientific journals
 ------
