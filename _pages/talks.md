@@ -1,9 +1,14 @@
 ---
-layout: archive
-title: "Presentations"
 permalink: /talks/
+title:
+excerpt:
 author_profile: true
 ---
+
+<img src='/images/StA3.png' width='895'>
+
+Presentations
+======
 
 Invited talks
 ------
