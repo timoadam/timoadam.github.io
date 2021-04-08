@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Timo Adam"
   avatar           : "Timo.jpg"
-  bio              : "Statistician, University of St Andrews, School of Mathematics and Statistics"
+  bio              : "Statistician, <br> University of St Andrews, School of Mathematics and Statistics"
   location         : "St Andrews, UK"
   employer         :
   pubmed           :
