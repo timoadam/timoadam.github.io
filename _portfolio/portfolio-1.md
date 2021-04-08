@@ -1,6 +1,6 @@
 ---
 title: "Random effects in (open population) spatial capture-recapture models"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png' width = '576'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png' width = '384'>"
 collection: portfolio
 ---
 
