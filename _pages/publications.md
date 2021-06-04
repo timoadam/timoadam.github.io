@@ -13,6 +13,10 @@ Publications
 Publications in peer-reviewed scientific journals
 ------
 
+- Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
+<span style="color: #1f96be;"><a href="https://www.biorxiv.org/content/10.1101/2021.03.09.434640v1.abstract" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
+*Scientific Reports*, accepted.
+
 - **Adam, T.**, Mayr, A., and Kneib, T. (2021):
 <span style="color: #1f96be;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
 *Econometrics and Statistics, Part B: Statistics*, accepted.
@@ -39,10 +43,6 @@ Publications in peer-reviewed scientific journals
 
 Preprints/submitted manuscripts
 ------
-
-- Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
-<span style="color: #1f96be;"><a href="https://www.biorxiv.org/content/10.1101/2021.03.09.434640v1.abstract" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
-*bioRxiv*, 2021.03.09.434640, submitted to *Scientific Reports*.
 
 - Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
 <span style="color: #1f96be;"><a href="https://arxiv.org/abs/2101.09197" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
