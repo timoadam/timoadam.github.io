@@ -44,7 +44,7 @@ Contributed talks
 ------
 
 - <span style="color: #1f96be;"> Modeling the state-switching dynamics in animal movement data using hidden semi-Markov models with non-parametric dwell-time distributions. </span>
-*vNCSE*, online, 6/2021.
+*vNCSE Meeting*, online, 6/2021.
 
 - <span style="color: #1f96be;"> Non-parametric inference in hidden Markov models for time series of counts. </span>
 *34th International Workshop on Statistical Modelling*, Guimarães, PT, 7/2019.
