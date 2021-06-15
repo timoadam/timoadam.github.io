@@ -14,7 +14,7 @@ Invited talks
 ------
 
 - <span style="color: #1f96be;"> Hierarchical hidden Markov models: applications in ecology and economics. </span>
-*CREEM Seminar, University of St Andrews*, St Andrews, UK, 5/2021.
+*CREEM Seminar, University of St Andrews*, St Andrews, UK (online), 5/2021.
 
 - <span style="color: #1f96be;"> Statistical modeling of animal tracking data using hidden Markov models. </span>
 *LUKE (Natural Resources Institute Finland)*, Helsinki, FIN, 9/2019.
