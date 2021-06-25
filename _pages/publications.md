@@ -53,7 +53,7 @@ Preprints/submitted manuscripts
 *arXiv*, 2101.09197, submitted to *Computational Statistics and Data Analysis*.
 
 - Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
-<span style="color: #1f96be;"> On the trail of underlying white shark behaviors at Guadalupe Island, Mexico. </span>
+<span style="color: #1f96be;"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico. </span>
 Submitted to *Ecology and Evolution*.
 
 Publications in conference proceedings
