@@ -13,6 +13,10 @@ Publications
 Publications in peer-reviewed scientific journals
 ------
 
+- Oelschläger, L. and **Adam, T.** (2021): 
+<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2007.14874" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
+*Statistical Modelling*, accepted.
+
 - Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
 <span style="color: #1f96be;"><a href="https://www.biorxiv.org/content/10.1101/2021.03.09.434640v1.abstract" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
 *Scientific Reports*, accepted.
@@ -50,11 +54,7 @@ Preprints/submitted manuscripts
 
 - Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
 <span style="color: #1f96be;"> On the trail of underlying white shark behaviors at Guadalupe Island, Mexico. </span>
-Submitted to *Functional Ecology*.
-
-- Oelschläger, L. and **Adam, T.** (2020): 
-<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2007.14874" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
-*arXiv*, 2007.14874, submitted to *Statistical Modelling*.
+Submitted to *Ecology and Evolution*.
 
 Publications in conference proceedings
 ------
