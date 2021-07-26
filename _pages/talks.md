@@ -43,6 +43,9 @@ Invited talks
 Contributed talks
 ------
 
+- <span style="color: #1f96be;"> Hidden Markov models for multi-scale time series: an application to stock market data. </span>
+*35th International Workshop on Statistical Modelling*, Bilbao, ES (online), 7/2021.
+
 - <span style="color: #1f96be;"> Modeling the state-switching dynamics in animal movement data using hidden semi-Markov models with non-parametric dwell-time distributions. </span>
 *vNCSE Meeting*, online, 6/2021.
 
