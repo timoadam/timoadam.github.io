@@ -5,7 +5,7 @@ excerpt:
 author_profile: true
 ---
 
-<img src='/images/StA3.png' width='895'>
+<img src='/images/StA.png' width='895'>
 
 Short CV
 ======
@@ -36,5 +36,5 @@ Awards, travel grants, and scholarships
 
 Peer-reviewing activites
 ------
-* I served as a reviewer for the *Journal of the Royal Statistical Society (Series A)*, *Annals of Applied Statistics*, *Computational Statistics and Data Analysis*, *Statistics in Medicine*, *Biometrical Journal*, *Frontiers in Ecology and Evolution*, and *Ecology and Evolution*.
+* I served as a reviewer for the *Journal of the Royal Statistical Society (Series A)*, *Annals of Applied Statistics*, *Computational Statistics and Data Analysis*, *Statistics in Medicine*, *Biometrical Journal*, *Methods in Ecology and Evolution*, *Frontiers in Ecology and Evolution*, *Ecology and Evolution*, and *Journal of Biogeography*.
 
