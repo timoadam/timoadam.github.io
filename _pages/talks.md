@@ -5,7 +5,7 @@ excerpt:
 author_profile: true
 ---
 
-<img src='/images/StA3.png' width='895'>
+<img src='/images/StA.png' width='895'>
 
 Presentations
 ======
