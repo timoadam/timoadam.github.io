@@ -54,11 +54,15 @@ Preprints/submitted manuscripts
 
 - Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
 <span style="color: #1f96be;"><a href="https://arxiv.org/abs/2101.09197" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
-*arXiv*, 2101.09197, submitted to *Computational Statistics and Data Analysis*.
+*arXiv*, 2101.09197, revision submitted to *Computational Statistics and Data Analysis*.
 
-- Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2020):
-<span style="color: #1f96be;"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico. </span>
-Submitted to *Ecology and Evolution*.
+- Nathan, R., Monk, C., Arlinghaus, R., **Adam, T.**, Alós, J., Assaf, M., Baktoft, H., Beardsworth, C.E., Bertram, M., Bijleveld, A., Brodin, T., Brooks, J.L., Campos-Candela, A., Cooke, S.J., Gjelland, K.Ø., Gupte, P.R., Harel, R., Hellström, G., Jeltsch, F., Killen, S., Klefoth, T., Langrock, R., Lennox, R.J., Lourie, E., Madden, J.R., Orchan, Y., Pauwels, I., Riha, M., Roeleke, M., Schlägel, U., Shohami, D., Signer, J., Toledo, S., Vilk, O., Westrelin, S., Whiteside, M., and Jarić, I. (2021): 
+<span style="color: #1f96be;"> Movement ecology in a big data world. </span>
+In revision at *Science*.
+
+- Glennie, R., **Adam, T.**, Leos-Barajas, V., Michelot, T., Photopoulou, T., and McClintock, B.T. (2021): 
+<span style="color: #1f96be;">Hidden Markov models: pitfalls and opportunities in ecology. </span>
+In revision at *Methods in Ecology and Evolution*.
 
 Publications in conference proceedings
 ------
