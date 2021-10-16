@@ -5,7 +5,7 @@ excerpt:
 author_profile: true
 ---
 
-<img src='/images/StA3.png' width='895'>
+<img src='/images/StA.png' width='895'>
 
 Publications
 ======
@@ -14,16 +14,20 @@ Publications in peer-reviewed scientific journals
 ------
 
 - Oelschläger, L. and **Adam, T.** (2021): 
-<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2007.14874" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
-*Statistical Modelling*, accepted.
+<span style="color: #1f96be;"><a href="https://journals.sagepub.com/doi/abs/10.1177/1471082X211034048" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
+*Statistical Modelling*, 1-20.
 
 - Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
-<span style="color: #1f96be;"><a href="https://www.biorxiv.org/content/10.1101/2021.03.09.434640v1.abstract" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
-*Scientific Reports*, accepted.
+<span style="color: #1f96be;"><a href="https://www.nature.com/articles/s41598-021-93253-1" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
+*Scientific Reports*, 11(14323).
 
 - **Adam, T.**, Mayr, A., and Kneib, T. (2021):
 <span style="color: #1f96be;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
-*Econometrics and Statistics, Part B: Statistics*, accepted.
+*Econometrics and Statistics*, 1-14.
+
+- Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2021): 
+<span style="color: #1f96be;"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico. </span>
+*Ecology and Evolution*, accepted.
 
 - Lennox, R.J., Westrelin, S., Souza, A.T., Šmejkal, M., Říha, M., Prchalová, M., Nathan, R., Monk, C., Koeck, B., Killen, S., Jarić, I., Gjelland, K., Hollins, J., Hellstrom, G., Hansen, H., Cooke, S.J., Boukal, D., Brooks, J.L., Brodin, T., Baktoft, H., **Adam, T.**, and Arlinghaus R. (2021):
 <span style="color: #1f96be;"> A role for lakes in revealing the nature of animal movement using high-dimensional telemetry systems. </span>
