@@ -34,11 +34,11 @@ Publications in peer-reviewed scientific journals
 *Econometrics and Statistics*, 1-14.
 
 6. Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2021): 
-<span style="color: #1f96be;"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico. </span>
+<span style="color: #1f96be;"><a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.8178" target="_blank"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico.</a></span>
 *Ecology and Evolution*, **11**(21), 14932-14949.
 
 7. Lennox, R.J., Westrelin, S., Souza, A.T., Šmejkal, M., Říha, M., Prchalová, M., Nathan, R., Monk, C., Koeck, B., Killen, S., Jarić, I., Gjelland, K., Hollins, J., Hellstrom, G., Hansen, H., Cooke, S.J., Boukal, D., Brooks, J.L., Brodin, T., Baktoft, H., **Adam, T.**, and Arlinghaus R. (2021):
-<span style="color: #1f96be;"> A role for lakes in revealing the nature of animal movement using high-dimensional telemetry systems. </span>
+<span style="color: #1f96be;"><a href="https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-021-00244-y" target="_blank"> A role for lakes in revealing the nature of animal movement using high-dimensional telemetry systems.</a></span>
 *Movement Ecology*, **9**(1), 1-28.
 
 8. **Adam, T.**, Griffiths, C.A., Leos-Barajas, V., Meese, E.N., Lowe, C.G., Blackwell, P.G., Righton, D., and Langrock, R. (2019): 
