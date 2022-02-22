@@ -13,6 +13,10 @@ Publications
 Publications in peer-reviewed scientific journals
 ------
 
+- Glennie, R., **Adam, T.**, Leos‐Barajas, V., Michelot, T., Photopoulou, T., and McClintock, B.T. (2022):
+<span style="color: #1f96be;"><a href="https://www.nature.com/articles/s41598-021-93253-1" target="_blank"> Hidden Markov models: pitfalls and opportunities in ecology.</a></span>
+*Methods in Ecology and Evolution*, 1-14.
+
 - Oelschläger, L. and **Adam, T.** (2021): 
 <span style="color: #1f96be;"><a href="https://journals.sagepub.com/doi/abs/10.1177/1471082X211034048" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
 *Statistical Modelling*, 1-20.
