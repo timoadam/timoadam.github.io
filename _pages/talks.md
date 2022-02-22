@@ -80,7 +80,7 @@ Poster presentations
 ------
 
 21.	<span style="color: #1f96be;"> Multi-scale modeling of animal movement data using hierarchical hidden Markov models. </span>
-*6th International Bio-logging Science Symposium*, Constance, Germany, September 2017.
+*6th International Biologging Science Symposium*, Constance, Germany, September 2017.
 
 22.	<span style="color: #1f96be;"> Using hierarchical hidden Markov models for joint inference at multiple temporal scales. </span>
 *32nd Interna-tional Workshop on Statistical Modelling*, Groningen, The Netherlands, July 2017.
