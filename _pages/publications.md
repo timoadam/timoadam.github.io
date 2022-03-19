@@ -13,7 +13,7 @@ Publications
 Publications in peer-reviewed scientific journals
 ------
 
-1. Pohle, J., **Adam, T.**, and Beumer, L.T. (2021): 
+1. Pohle, J., **Adam, T.**, and Beumer, L.T. (2022): 
 <span style="color: #1f96be;"><a href="https://arxiv.org/abs/2101.09197" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
  *Computational Statistics and Data Analysis*, accepted.
 
@@ -94,9 +94,9 @@ Publications in conference proceedings
 Software
 ------
 
-19.	Oelschläger, L. and **Adam, T.** (2021):
-<span style="color: #1f96be;"><a href="https://CRAN.R-project.org/package=fHMM" target="_blank"> fHMM: fitting hidden Markov models to financial time series.</a></span>
-*R package*, 0.3.0, CRAN.
+19.	Oelschläger, L., **Adam, T.**, and Michels, R. (2022):
+<span style="color: #1f96be;"><a href="http://loelschlaeger.de/fHMM/" target="_blank"> fHMM: fitting hidden Markov models to financial time series.</a></span>
+*R package*, 1.0.0, CRAN.
 
 20. **Adam, T.** (2019):
 <span style="color: #1f96be;"><a href="https://CRAN.R-project.org/package=countHMM" target="_blank"> countHMM: penalized estimation of flexible hidden Markov models for time series of counts.</a></span>
