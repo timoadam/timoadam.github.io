@@ -7,9 +7,6 @@ author_profile: true
 
 <img src='/images/StA.png' width='895'>
 
-// Publications
-// ======
-
 Publications in peer-reviewed scientific journals
 ------
 
