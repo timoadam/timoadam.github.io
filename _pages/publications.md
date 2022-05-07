@@ -4,8 +4,6 @@ title:
 excerpt:
 author_profile: true
 ---
-
-----
 About my research
 ----
 
