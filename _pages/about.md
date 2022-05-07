@@ -13,10 +13,10 @@ redirect_from:
 Research interests
 ======
 
-I am passionate about developing innovative statistical methods and their application in ecology (animal movement and population modelling) and economics (stock market modelling). In particular, my research focuses on the following topics:
+I am passionate about developing innovative statistical methods and their application in ecology (animal movement modelling) and economics (financial time series modelling). In particular, my research focuses on the following topics:
 
 - Hidden Markov models and their extensions.
-- Non-parametric modelling techniques.
+- Non-parametric modelling techniques, particularly based on penalised B-splines.
 - Statistical software development in R.
 - Applications in ecology and economics.
 
