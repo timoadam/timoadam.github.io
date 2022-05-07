@@ -25,17 +25,17 @@ Publications in peer-reviewed scientific journals
 <span style="color: #1f96be;"><a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13801" target="_blank"> Hidden Markov models: pitfalls and opportunities in ecology.</a></span>
 *Methods in Ecology and Evolution*, 1-14.
 
-4. Oelschläger, L. and **Adam, T.** (2021): 
+4. **Adam, T.**, Mayr, A., and Kneib, T. (2022):
+<span style="color: #1f96be;"><a href="https://www.sciencedirect.com/science/article/pii/S2452306221000502" target="_blank"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </a></span>
+*Econometrics and Statistics*, 1-14.
+
+5. Oelschläger, L. and **Adam, T.** (2021): 
 <span style="color: #1f96be;"><a href="https://journals.sagepub.com/doi/abs/10.1177/1471082X211034048" target="_blank"> Detecting bearish and bullish markets in financial time series data using hierarchical hidden Markov models.</a></span>
 *Statistical Modelling*, 1-20.
 
-5. Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
+6. Nagel, R., Mews, S., **Adam, T.**, Stainfield, C., Fox-Clarke, C., Toscani, C., Langrock, R., Forcada, J., and Hofmann, J.I. (2021):
 <span style="color: #1f96be;"><a href="https://www.nature.com/articles/s41598-021-93253-1" target="_blank"> Movement patterns and activity levels are shaped by the neonatal environment in Antarctic fur seal pups.</a></span>
 *Scientific Reports*, **11**(14323).
-
-6. **Adam, T.**, Mayr, A., and Kneib, T. (2021):
-<span style="color: #1f96be;"> Gradient boosting in Markov-switching generalized additive models for location, scale, and shape. </span>
-*Econometrics and Statistics*, 1-14.
 
 7. Aquino-Baleytó, M., Leos-Barajas, V., **Adam, T.**, Hoyos-Padilla, M., Santana-Morales, O., Galván-Magaña, F., González-Armas, R., Lowe, C.G., Ketchum, J.T., and Villalobos-Ortiz, H. (2021): 
 <span style="color: #1f96be;"><a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.8178" target="_blank"> Diving deeper into the underlying white shark behaviours at Guadalupe Island, Mexico.</a></span>
