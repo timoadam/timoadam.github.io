@@ -64,48 +64,55 @@ Publications in peer-reviewed scientific journals
 Preprints/submitted manuscripts
 ------
 
+13. Oelschläger, L., **Adam, T.**, and Michels, R. (2022): <span style="color: #1f96be;"> fHMM: hidden Markov models for financial time series in R.</span>
+Submitted to *Journal of Statistical Software*.
+
+14. **Adam, T.**, Glennie, R., and Michelot, T. (2022):
+<span style="color: #1f96be;"> State-switching varying-coefficient stochastic differential equations.</span>
+Submitted to *Proceedings of the 36th International Workshop on Statistical Modelling*.
+
 Publications in conference proceedings
 ------
 
-13. **Adam, T.** and Oelschläger, L. (2020):
+15. **Adam, T.** and Oelschläger, L. (2020):
 <span style="color: #1f96be;"> Hidden Markov models for multi-scale time series: an application to stock market data. </span>
 *Proceedings of the 35th International Workshop on Statistical Modelling*, **1**, 2-7.
 
-14.	Pohle, J., **Adam, T.**, Beumer, L.T., and Langrock, R. (2020):
+16.	Pohle, J., **Adam, T.**, Beumer, L.T., and Langrock, R. (2020):
 <span style="color: #1f96be;"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models. </span>
 *Proceedings of the 35th International Workshop on Statistical Modelling*, **1**, 189-193.
 
-15.	**Adam, T.**, Langrock, R., and Kneib, T. (2019):
+17.	**Adam, T.**, Langrock, R., and Kneib, T. (2019):
 <span style="color: #1f96be;"> Model-based clustering of time series data: a flexible approach using non-parametric state-switching quantile regression models. </span>
 *Book of Short Papers of the 12th Scientific Meeting on Classification and Data Analysis*, 19-22.
 
-16.	**Adam, T.**, Langrock, R., and Weiß, C.H. (2019):
+18.	**Adam, T.**, Langrock, R., and Weiß, C.H. (2019):
 <span style="color: #1f96be;"> Non-parametric inference in hidden Markov models for time series of counts. </span>
 *Proceedings of the 34th International Workshop on Statistical Modelling*, **1**, 135-140.
 
-17.	**Adam, T.**, Mayr, A., Kneib, T., and Langrock, R. (2018):
+19.	**Adam, T.**, Mayr, A., Kneib, T., and Langrock, R. (2018):
 <span style="color: #1f96be;"> Statistical boosting for Markov-switching distributional regression models. </span>
 *Proceedings of the 33rd International Workshop on Statistical Modelling*, **1**, 30-35.
 
-18.	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):
+20.	**Adam, T.**, Leos-Barajas, V., Langrock, R., and van Beest, F.M. (2017):
 <span style="color: #1f96be;"> Using hierarchical hidden Markov models for joint inference at multiple temporal scales. </span>
 *Proceedings of the 32nd International Workshop on Statistical Modelling*, **2**, 181-184.
 
 Software
 ------
 
-19.	Oelschläger, L., **Adam, T.**, and Michels, R. (2022):
+21.	Oelschläger, L., **Adam, T.**, and Michels, R. (2022):
 <span style="color: #1f96be;"><a href="http://loelschlaeger.de/fHMM/" target="_blank"> fHMM: fitting hidden Markov models to financial time series.</a></span>
 *R package*, 1.0.0, CRAN.
 
-20. **Adam, T.** (2019):
+22. **Adam, T.** (2019):
 <span style="color: #1f96be;"><a href="https://CRAN.R-project.org/package=countHMM" target="_blank"> countHMM: penalized estimation of flexible hidden Markov models for time series of counts.</a></span>
 *R package*, 0.1.0, CRAN.
 
 Thesis
 ------
 
-21.  **Adam, T.** (2020):
+23.  **Adam, T.** (2020):
 <span style="color: #1f96be;"> On some flexible extensions of hidden Markov models. </span>
 *Dissertation*, Bielefeld University.
 
