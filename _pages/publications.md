@@ -62,7 +62,7 @@ Publications in peer-reviewed journals
 *Journal of Agricultural, Biological, and Environmental Statistics*, **22**(3), 232-248.
 
 Preprints/submitted manuscripts
-------
+====
 
 13. Oelschläger, L., **Adam, T.**, and Michels, R. (2022): <span style="color: #44546a;"> fHMM: hidden Markov models for financial time series in R.</span>
 Submitted to *Journal of Statistical Software*.
@@ -72,7 +72,7 @@ Submitted to *Journal of Statistical Software*.
 Submitted to *Proceedings of the 36th International Workshop on Statistical Modelling*.
 
 Publications in conference proceedings
-------
+====
 
 15. **Adam, T.** and Oelschläger, L. (2020):
 <span style="color: #44546a;"> Hidden Markov models for multi-scale time series: an application to stock market data. </span>
@@ -99,7 +99,7 @@ Publications in conference proceedings
 *Proceedings of the 32nd International Workshop on Statistical Modelling*, **2**, 181-184.
 
 Software
-------
+====
 
 21.	Oelschläger, L., **Adam, T.**, and Michels, R. (2022):
 <span style="color: #44546a;"><a href="http://loelschlaeger.de/fHMM/" target="_blank"> fHMM: fitting hidden Markov models to financial time series.</a></span>
@@ -110,7 +110,7 @@ Software
 *R package*, 0.1.0, CRAN.
 
 Thesis
-------
+====
 
 23.  **Adam, T.** (2020):
 <span style="color: #44546a;"> On some flexible extensions of hidden Markov models. </span>
