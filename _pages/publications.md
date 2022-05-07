@@ -5,6 +5,8 @@ excerpt:
 author_profile: true
 ---
 
+<img src='/images/StA.png' width='0'>
+
 Publications in peer-reviewed scientific journals
 ------
 
