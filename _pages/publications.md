@@ -1,11 +1,11 @@
 ---
 permalink: /research/
-title: Research
-excerpt: Test
+title:
+excerpt:
 author_profile: true
 ---
 
-My research focuses on the development, implementation, and application of innovative statistical methods for time series, particularly hidden Markov models and non-parametric modelling techniques. I am especially interested in their application in ecology (statistical modelling of animal movement data, e.g. GPS, dive, and acceleration data) and economics (statistical modelling of financial time series).
+My research focuses on the *development*, *implementation*, and *application* of innovative statistical methods for time series, particularly hidden Markov models and non-parametric modelling techniques. I am especially interested in their application in ecology (statistical modelling of animal movement data, e.g. GPS, dive, and acceleration data) and economics (statistical modelling of financial time series).
 
 Publications in peer-reviewed journals
 ------
