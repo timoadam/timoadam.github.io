@@ -5,9 +5,9 @@ excerpt:
 author_profile: true
 ---
 
-<img src='/images/StA.png' width='0'>
+Publications
 
-Publications in peer-reviewed scientific journals
+Publications in peer-reviewed journals
 ------
 
 1. Pohle, J., **Adam, T.**, and Beumer, L.T. (2022): 
