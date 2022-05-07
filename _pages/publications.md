@@ -5,8 +5,7 @@ excerpt:
 author_profile: true
 ---
 
-
-
+----
 About my research
 ----
 
@@ -74,7 +73,7 @@ Submitted to *Journal of Statistical Software*.
 Submitted to *Proceedings of the 36th International Workshop on Statistical Modelling*.
 
 Publications in conference proceedings
-====
+----
 
 15. **Adam, T.** and Oelschläger, L. (2020):
 <span style="color: #44546a;"> Hidden Markov models for multi-scale time series: an application to stock market data. </span>
