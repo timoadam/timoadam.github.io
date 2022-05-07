@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 About my research
-======
+====
 
 > My research focuses on the *development*, *implementation*, and *application* of innovative statistical methods for time series, particularly hidden Markov models and non-parametric modelling techniques. I am especially interested in their application in ecology (statistical modelling of animal movement data, e.g. GPS, dive, and acceleration data) and economics (statistical modelling of financial time series).
 
 Publications in peer-reviewed journals
-------
+====
 
 1. Pohle, J., **Adam, T.**, and Beumer, L.T. (2022): 
 <span style="color: #1f96be;"><a href="https://www.sciencedirect.com/science/article/pii/S0167947322000597?casa_token=bs40Deaq1wMAAAAA:Sjur4lvWNjGZ7Rgt8xwu1pQP_rb55hp6LVoEUZyRYpgdlbXeH6HInCauL9Hw7xoNpTeSTSQa4xY" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
