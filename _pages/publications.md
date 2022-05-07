@@ -14,8 +14,8 @@ Publications in peer-reviewed scientific journals
 ------
 
 1. Pohle, J., **Adam, T.**, and Beumer, L.T. (2022): 
-<span style="color: #1f96be;"><a href="https://arxiv.org/abs/2101.09197" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
- *Computational Statistics and Data Analysis*, accepted.
+<span style="color: #1f96be;"><a href="https://www.sciencedirect.com/science/article/pii/S0167947322000597?casa_token=bs40Deaq1wMAAAAA:Sjur4lvWNjGZ7Rgt8xwu1pQP_rb55hp6LVoEUZyRYpgdlbXeH6HInCauL9Hw7xoNpTeSTSQa4xY" target="_blank"> Flexible estimation of the state dwell-time distribution in hidden semi-Markov models.</a></span>
+ *Computational Statistics and Data Analysis*, **172**, 107479.
 
 2. Nathan, R., Monk, C.T., Arlinghaus, R., **Adam, T.**, Alós, J., Assaf, M., Baktoft, H., Beardsworth, C.E., Bertram, M.G., Bijleveld, A.I., Brodin, T., Brooks, J.L., Campos-Candela, A., Cooke, S.J., Gjelland, K.Ø., Gupte, P.R., Harel, R., Hellström, G., Jeltsch, F., Killen, S.S., Klefoth, T., Langrock, R., Lennox, R.J., Lourie, E., Madden, J.R., Orchan, Y., Pauwels, I.S., Říha, M., Roeleke, M., Schlägel, U.E., Shohami, D., Signer, J., Toledo, S., Vilk, O., Westrelin, S., Whiteside, M.A., and Jarić, I. (2022):
 <span style="color: #1f96be;"><a href="https://www.science.org/doi/10.1126/science.abg1780" target="_blank"> Big-data approaches lead to an increased understanding of the ecology of animal movement.</a></span>
