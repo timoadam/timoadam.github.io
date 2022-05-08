@@ -15,7 +15,7 @@ Research interests
 
 My research focuses on the following topics:
 
-- Hidden Markov models and their extensions.
+- Hidden Markov models (HMMs) and their extensions.
 - Non-parametric modelling techniques, particularly based on penalised B-splines.
 - Statistical software development in R.
 - Applications in ecology and economics.
