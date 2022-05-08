@@ -5,4 +5,4 @@ excerpt:
 author_profile: true
 ---
 
-My CV can be downloaded here.
+> My CV can be downloaded here.
