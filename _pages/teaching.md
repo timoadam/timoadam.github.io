@@ -7,6 +7,8 @@ author_profile: true
 Teaching
 ----
 
+> A list of the courses I taught is available below.
+
 University of St Andrews, UK
 ----
 
