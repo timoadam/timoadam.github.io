@@ -1,11 +1,8 @@
 ---
 permalink: /cv/
-title:
+title: CV
 excerpt:
 author_profile: true
 ---
-
-CV
-----
 
 My CV can be downloaded here.
