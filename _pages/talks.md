@@ -1,11 +1,9 @@
 ---
 permalink: /talks/
-title:
+title: Talks
 excerpt:
 author_profile: true
 ---
-Talks
-----
 
 > A list of invited talks, contributed talks, and poster presentations is available below.
 
