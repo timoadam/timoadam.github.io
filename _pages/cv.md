@@ -18,6 +18,8 @@ Title of the Master's thesis: *Non-parametric inference in generalised Markov-sw
 * October 2010-September 2013: B.Sc. in economics, <span style="color: #1f96be;"><a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a></span>, Germany.
 Title of the Bachelor's thesis: *Einführung in quantile Regressionsmodelle und deren Schätzung mit penalisierten B-Splines* (Introduction to quantile regression models and their estimation using penalised B-splines).
 
+<object data="files/Document4.pdf" width="1000" height="1000" type='application/pdf'/>
+
 Work experience
 ----
 * Since June 2020: Postdoctoral research fellow in statistics, School of Mathematics and Statistics, <span style="color: #1f96be;"><a href="https://www.st-andrews.ac.uk" target="_blank">University of St Andrews</a></span>, UK.
