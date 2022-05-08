@@ -5,7 +5,7 @@ excerpt:
 author_profile: true
 ---
 
-Presentations
+Talks
 ----
 
 Invited talks
